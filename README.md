@@ -1,4 +1,4 @@
-# Тестовое задание для Front​end developer 
+# Тестовое задание для Front​end developer  :ballot_box_with_check:
 
 ##  Создайте одностраничное приложение “Список сотрудников”, используя библиотеку React.js:
 
